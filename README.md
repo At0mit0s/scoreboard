@@ -1,5 +1,6 @@
 # Fivem Scoreboard
 ### About the script:
+- To open the scoreboard type **/scoreboard** into the chat
 - It list all the online players
 - Show all player **Name**, **ID**, **Job**, **Ping**
 - Show **Server Name** and how many **players** are online
